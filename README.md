@@ -61,7 +61,7 @@ if __name__ == '__main__':
 
 ![](https://github.com/Xavier-MaYiMing/MO_Ring_PSO_SCD/blob/main/Pareto%20front.png)
 
-![](https://github.com/Xavier-MaYiMing/MO_Ring_PSO_SCD/blob/main/Pareto%20front.png)
+![](https://github.com/Xavier-MaYiMing/MO_Ring_PSO_SCD/blob/main/Pareto%20set.png)
 
 ```python
 Iteration 10 completed.
