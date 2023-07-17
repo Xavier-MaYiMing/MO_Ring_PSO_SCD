@@ -59,9 +59,9 @@ if __name__ == '__main__':
 
 ##### Output:
 
-![Pareto front](/Users/xavier/Desktop/Xavier Ma/个人算法主页/MO_Ring_PSO_SCD/Pareto front.png)
+![](https://github.com/Xavier-MaYiMing/MO_Ring_PSO_SCD/blob/main/Pareto%20front.png)
 
-![Pareto set](/Users/xavier/Desktop/Xavier Ma/个人算法主页/MO_Ring_PSO_SCD/Pareto set.png)
+![](https://github.com/Xavier-MaYiMing/MO_Ring_PSO_SCD/blob/main/Pareto%20front.png)
 
 ```python
 Iteration 10 completed.
