@@ -202,7 +202,7 @@ def main(npop, iter, lb, ub, omega=0.7298, c1=2.05, c2=2.05, n_NBA=15, n_PBA=5):
 
             # Step 2.3. Update PBA
             PBA[i] = np.concatenate((PBA[i], pos[i].reshape(1, dim)), axis=0)
-            PBA_objs[i] = np.concatenate((PBA_objs[i], objs[i].reshape(1, dim)), axis=0)
+            PBA_objs[i] = np.concatenate((PBA_objs[i], objs[i].reshape(1, n_obj)), axis=0)
             PBA[i], PBA_objs[i] = nd_scd_sort(PBA[i], PBA_objs[i])[: 2]
             if len(PBA[i]) > n_PBA:
                 PBA[i] = PBA[i][: n_PBA, :]
